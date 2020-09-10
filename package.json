@@ -1,0 +1,19 @@
+{
+  "name": "confirm-the-submit",
+  "version": "0.0.1",
+  "description": "Confirm the submit",
+  "main": "src/confirm_the_submit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsmsogn/confirm-the-submit.git"
+  },
+  "author": "tsmsogn <tsmsogn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsmsogn/confirm-the-submit/issues"
+  },
+  "homepage": "https://github.com/tsmsogn/confirm-the-submit#readme"
+}
