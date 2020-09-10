@@ -1,5 +1,9 @@
 # confirm-the-submit
 
+## Requirements
+
+- jQuery
+
 ## Installation
 
 ```shell
